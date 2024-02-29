@@ -46,3 +46,9 @@ body {font-family: "Neuton", serif;font-weight: 400;font-style: normal;}
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.language-progress {
+	background-color: #D37E80
+}
+.language-level {
+	border: 2px solid #EBEBEB
+}
