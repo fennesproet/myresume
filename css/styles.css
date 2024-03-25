@@ -4,7 +4,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 /* Styles for the body */
-
 body {font-family: "Neuton", serif;font-weight: 400;font-style: normal;}
 
 
@@ -51,4 +50,12 @@ body {font-family: "Neuton", serif;font-weight: 400;font-style: normal;}
 }
 .language-level {
 	border: 2px solid #EBEBEB;
+}
+.colorfultitle {
+	color: #CDD7E4;
+		text-align: center;
+	text-decoration-line: underline;
+}
+.taglinecentre {
+	text-align: center;
 }
