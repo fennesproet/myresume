@@ -53,10 +53,10 @@ body {font-family: "Neuton", serif;font-weight: 400;font-style: normal;}
 }
 .colorfultitle {
 	color: #D37E80;
-		text-align: center;
+		text-align: right;
 	font-style: italic;
 }
 .taglinecentre {
-	text-align: center;
+	text-align: right;
 		text-decoration: overline; 
 }
