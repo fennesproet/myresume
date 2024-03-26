@@ -52,10 +52,11 @@ body {font-family: "Neuton", serif;font-weight: 400;font-style: normal;}
 	border: 2px solid #EBEBEB;
 }
 .colorfultitle {
-	color: #CDD7E4;
+	color: #D37E80;
 		text-align: center;
-	text-decoration-line: underline;
+	font-style: italic;
 }
 .taglinecentre {
 	text-align: center;
+		text-decoration: overline; 
 }
